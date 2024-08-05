@@ -1,3 +1,5 @@
+Deployed Link: https://app.powerbi.com/groups/me/reports/9cb3e22b-d889-4abb-abfc-2f9fcd9ab2b7/ReportSectione719bc870ae785487cca?experience=power-bi
+
 ![image](https://github.com/user-attachments/assets/efdff1cd-e6a8-4419-b422-2fe8d1245542)
 
 # Problem Statement
